@@ -1,0 +1,31 @@
+html {
+	width: 340px;
+}
+body {
+	padding: 20px;
+}
+h1 {
+	font-size: 24px;
+	text-align: center;
+}
+label {
+	float: left;
+	margin: 10px 0;
+	width: 100%;
+}
+input {
+	margin: 2px 0;
+}
+input[type="url"] {
+	width: 100%;
+}
+input[type="checkbox"] {
+	display: block;
+	zoom: 2;
+}
+button {
+	margin-top: 10px;
+}
+body, button, input[type="url"] {
+	font-size: 18px;
+}
